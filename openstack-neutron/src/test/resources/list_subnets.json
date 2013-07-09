@@ -1,0 +1,17 @@
+{"subnets": [{
+        "name": "test-subnet",
+        "network_id": "16dba3bc-f3fa-4775-afdc-237e12c72f6a",
+        "tenant_id": "afc75773-640e-403c-9fff-62ba98db1f19",
+        "allocation_pools": [
+            {
+                "start": "10.10.0.2",
+                "end": "10.10.0.254"
+            }
+        ],
+        "gateway_ip": "10.10.0.1",
+        "ip_version": 4,
+        "cidr": "10.10.0.0/24",
+        "id": "4156c7a5-e8c4-4aff-a6e1-8f3c7bc83861",
+        "enable_dhcp": false
+    }]
+}

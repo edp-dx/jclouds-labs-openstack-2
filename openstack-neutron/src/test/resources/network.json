@@ -1,0 +1,8 @@
+{"network": {
+    "name": "jclouds-port-test",
+    "id": "16dba3bc-f3fa-4775-afdc-237e12c72f6a",
+    "status": "ACTIVE",
+    "subnets": ["e12f0c45-46e3-446a-b207-9474b27687a6"],
+    "admin_state_up": true,
+    "tenant_id": "afc75773-640e-403c-9fff-62ba98db1f19"
+}}
